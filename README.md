@@ -16,7 +16,7 @@ It uses Socket.io for real time communication and stores user details in encrypt
 Clone the project
 
 ```bash
-  git clone https://github.com/Bipasha0431/BuzzLink
+  git clone https://github.com/Bipasha0431/BuzzLink_
 ```
 
 Go to the project directory
@@ -50,23 +50,25 @@ Start the Client
 # Features
 
 ### Authenticaton
-![Screenshot 2024-10-01 024520](https://github.com/user-attachments/assets/f719a3a0-f464-4daf-bd57-bf2fe0d7f7bf)
-![Screenshot 2024-10-01 024533](https://github.com/user-attachments/assets/82c7f722-84d7-40a3-8acd-37f739998a31)
+![Screenshot 2024-10-01 024520](https://github.com/user-attachments/assets/cbb8ce70-9659-4db6-8b1a-d875c6334769)
+![Screenshot 2024-10-01 024533](https://github.com/user-attachments/assets/6ef2264b-8f22-4056-9c0c-a25737b7bf75)
+
 
 ### Real Time Chat with typing indicators
-![Screenshot 2024-10-01 025123](https://github.com/user-attachments/assets/84990f41-a3b0-4a1a-88ec-7c6bcf793668)
+![Screenshot 2024-10-01 025123](https://github.com/user-attachments/assets/480c1ce2-e444-4a80-be17-729f6b545ecb)
+
 
 ### One to One chat
-![image](https://github.com/user-attachments/assets/ec8b43b3-e5d1-4a0c-8ee1-f282e15d1e4b)
+![Screenshot 2024-10-01 025354](https://github.com/user-attachments/assets/7fb10920-e5d7-4b2a-96bd-065ce45e1961)
 
 ### Search Users
-![image](https://github.com/user-attachments/assets/b44a4461-51b6-4448-b0e5-0d2be042c39d)
+![Screenshot 2024-10-01 025520](https://github.com/user-attachments/assets/80c96d99-5933-4e53-b779-109eab37fbab)
 
 ### Create Group Chats
-![image](https://github.com/user-attachments/assets/9df973fa-1ec1-4d1d-8910-ffb692451f33)
+![Screenshot 2024-10-01 030804](https://github.com/user-attachments/assets/4fd264a0-0c71-4f58-a438-a878bc941560)
 
 ### Add or Remove users from group
-![image](https://github.com/user-attachments/assets/5e9756a8-fcc7-4416-93bd-52be44251d0e)
+![Screenshot 2024-10-01 030936](https://github.com/user-attachments/assets/46eb60f7-24c7-4e31-b4e8-6bb9c26f400d)
 
 
 
